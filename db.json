@@ -2,7 +2,7 @@
     "all": [
         {
             "id": 1,
-            "questionType": "fillInBlank",
+            "questionType": 1,
             "content": "Đề văn được Đen tiết lộ trong MV mới là gì?",
             "answers": [
                 {
@@ -33,7 +33,7 @@
         },
         {
             "id": 2,
-            "questionType": "fillInBlank",
+            "questionType": 1,
             "content": "Vị tướng nào sau đây là biểu tượng quốc dân của game Liên minh huyền thoại",
             "answers": [
                 {
@@ -64,7 +64,7 @@
         },
         {
             "id": 3,
-            "questionType": "fillInBlank",
+            "questionType": 1,
             "content": "Câu thành ngữ nào sau đây là đúng?",
             "answers": [
                 {
@@ -95,7 +95,7 @@
         },
         {
             "id": 4,
-            "questionType": "fillInBlank",
+            "questionType": 1,
             "content": "Thần chú mở cửa trong Alibaba và 40 tên cướp là gì?",
             "answers": [
                 {
@@ -126,7 +126,7 @@
         },
         {
             "id": 5,
-            "questionType": "multiQuestion",
+            "questionType": 2,
             "content": "MV ca nhạc mà Đen vào vai thám tử Sherlock Home?",
             "answers": [
                 {
@@ -139,7 +139,7 @@
         },
         {
             "id": 6,
-            "questionType": "multiQuestion",
+            "questionType": 2,
             "content": "Ca khúc mới nhứt của Sếp là gì?",
             "answers": [
                 {
@@ -152,7 +152,7 @@
         },
         {
             "id": 7,
-            "questionType": "multiQuestion",
+            "questionType": 2,
             "content": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
             "answers": [
                 {
@@ -165,7 +165,7 @@
         },
         {
             "id": 8,
-            "questionType": "multiQuestion",
+            "questionType": 2,
             "content": "Từ gì mà 100% nguời dân Việt Nam đều phát âm sai?",
             "answers": [
                 {
